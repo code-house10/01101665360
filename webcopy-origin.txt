@@ -822,28 +822,28 @@ Uri: https://www.wadinile-transport.com/en/products/product/9
 File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\9.html
 Content Type: text/html
 
-Uri: https://www.wadinile-transport.com/fonts/droidnaskh/DroidArabicNaskh-Bold.eot?
-File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\droidnaskh\DroidArabicNaskh-Bold.eot
+Uri: https://www.wadinile-transport.com/fonts/Cairo/DroidArabicNaskh-Bold.eot?
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\Cairo\DroidArabicNaskh-Bold.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.wadinile-transport.com/fonts/droidnaskh/DroidArabicNaskh-Bold.svg
-File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\droidnaskh\DroidArabicNaskh-Bold.svg
+Uri: https://www.wadinile-transport.com/fonts/Cairo/DroidArabicNaskh-Bold.svg
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\Cairo\DroidArabicNaskh-Bold.svg
 Content Type: image/svg+xml
 
-Uri: https://www.wadinile-transport.com/fonts/droidnaskh/DroidArabicNaskh-Bold.ttf
-File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\droidnaskh\DroidArabicNaskh-Bold.ttf
+Uri: https://www.wadinile-transport.com/fonts/Cairo/DroidArabicNaskh-Bold.ttf
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\Cairo\DroidArabicNaskh-Bold.ttf
 Content Type: font/ttf
 
-Uri: https://www.wadinile-transport.com/fonts/droidnaskh/DroidArabicNaskh-Bold.woff?
-File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\droidnaskh\DroidArabicNaskh-Bold.woff
+Uri: https://www.wadinile-transport.com/fonts/Cairo/DroidArabicNaskh-Bold.woff?
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\Cairo\DroidArabicNaskh-Bold.woff
 Content Type: font/woff
 
-Uri: https://www.wadinile-transport.com/fonts/droidnaskh/DroidArabicNaskh.woff
-File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\droidnaskh\DroidArabicNaskh.woff
+Uri: https://www.wadinile-transport.com/fonts/Cairo/DroidArabicNaskh.woff
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\Cairo\DroidArabicNaskh.woff
 Content Type: font/woff
 
-Uri: https://www.wadinile-transport.com/fonts/droidnaskh/DroidArabicNaskh.woff2
-File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\droidnaskh\DroidArabicNaskh.woff2
+Uri: https://www.wadinile-transport.com/fonts/Cairo/DroidArabicNaskh.woff2
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\Cairo\DroidArabicNaskh.woff2
 Content Type: font/woff2
 
 Uri: https://www.wadinile-transport.com/fonts/fontawesome-webfont.eot?

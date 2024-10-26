@@ -219,7 +219,7 @@ h4,
 h5,
 h6 {
     color: #333232;
-    font-family: "Montserrat",sans-serif;
+    font-family: "Cairo",sans-serif;
 }
 h1 a,
 h2 a,
@@ -8747,9 +8747,9 @@ ol.commentlist li .star-rating {
 }
 /* Arabic Version */
 * {letter-spacing: 0px !important;}
-@font-face {font-family: DroidNaskh;src: url(../fonts/droidnaskh/DroidArabicNaskh.woff) format("woff"),url(../fonts/droidnaskh/DroidArabicNaskh.woff2) format("woff2"),url(../fonts/droidnaskh/DroidArabicNaskh-Bold.eot) format("embedded-opentype"),url(../fonts/droidnaskh/DroidArabicNaskh-Bold.woff) format("woff"),url(../fonts/droidnaskh/DroidArabicNaskh-Bold.ttf) format("truetype"),url(../fonts/droidnaskh/DroidArabicNaskh-Bold.svg) format("svg");font-weight: 700;font-style: normal; font-display: swap;}
-body{font-family:DroidNaskh,"Helvetica Neue",Helvetica,Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.5;}
-h1, h2, h3, h4, h5, h6 {font-family:DroidNaskh,"Helvetica Neue",Helvetica,Helvetica,Arial,sans-serif !important;}
+@font-face {font-family: Cairo;src: url(../fonts/Cairo/DroidArabicNaskh.woff) format("woff"),url(../fonts/Cairo/DroidArabicNaskh.woff2) format("woff2"),url(../fonts/Cairo/DroidArabicNaskh-Bold.eot) format("embedded-opentype"),url(../fonts/Cairo/DroidArabicNaskh-Bold.woff) format("woff"),url(../fonts/Cairo/DroidArabicNaskh-Bold.ttf) format("truetype"),url(../fonts/Cairo/DroidArabicNaskh-Bold.svg) format("svg");font-weight: 700;font-style: normal; font-display: swap;}
+body{font-family:Cairo,"Cairo",Cairo,sans-serif;font-size:16px;font-weight:400;line-height:1.5;}
+h1, h2, h3, h4, h5, h6 {font-family:Cairo,"Cairo",Cairo,sans-serif !important;}
 .erinyen.tparrows.tp-leftarrow::before {content: "\e825" !important;}
 .erinyen.tparrows.tp-leftarrow {transform: matrix(1, 0, 0, 1, -10, -35) !important;right: 0px !important;left: 0px;}
 .erinyen.tparrows.tp-rightarrow::before {content: "\e824" !important;}
