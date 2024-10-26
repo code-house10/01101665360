@@ -1,0 +1,1796 @@
+Uri: https://m.facebook.com/login.php?next=https:%2F%2Fm.facebook.com%2Fprofile.php%3Fid%3D61553120266311%26refid%3D52%26__tn__%3DC-R&refsrc=deprecated&refid=52&_rdr
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://www.wadinile-transport.com/
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\index.htm
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/about
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\about.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/about/
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\about\index.htm
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/about
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\about.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/contact
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\contact.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/index.php
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\index.php.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/category/1
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\category\1.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/1
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\1.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/10
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\10.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/11
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\11.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/12
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\12.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/13
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\13.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/14
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\14.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/15
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\15.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/17
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\17.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/18
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\18.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/19
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\19.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/2
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\2.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/20
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\20.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/21
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\21.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/22
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\22.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/23
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\23.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/24
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\24.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/25
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\25.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/26
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\26.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/27
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\27.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/28
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\28.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/29
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\29.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/3
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\3.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/30
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\30.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/31
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\31.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/32
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\32.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/33
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\33.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/34
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\34.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/4
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\4.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/5
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\5.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/6
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\6.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/7
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\7.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/8
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\8.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/pages/page/9
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\pages\page\9.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/privacy
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\privacy.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/category/1
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\category\1.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/1
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\1.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/10
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\10.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/11
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\11.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/12
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\12.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/13
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\13.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/14
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\14.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/15
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\15.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/16
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\16.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/17
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\17.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/18
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\18.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/19
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\19.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/2
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\2.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/20
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\20.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/21
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\21.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/22
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\22.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/23
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\23.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/24
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\24.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/25
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\25.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/26
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\26.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/27
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\27.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/28
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\28.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/29
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\29.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/3
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\3.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/30
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\30.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/31
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\31.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/32
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\32.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/33
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\33.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/34
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\34.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/35
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\35.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/36
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\36.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/37
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\37.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/38
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\38.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/39
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\39.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/4
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\4.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/40
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\40.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/41
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\41.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/42
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\42.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/43
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\43.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/44
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\44.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/45
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\45.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/46
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\46.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/47
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\47.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/48
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\48.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/5
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\5.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/6
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\6.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/7
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\7.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/8
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\8.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/ar/products/product/9
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\ar\products\product\9.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/contact
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\contact.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/contact/
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\contact\index.htm
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/css_ltr/bootstrap-select.min.css
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\css_ltr\bootstrap-select.min.css
+Content Type: text/css
+
+Uri: https://www.wadinile-transport.com/css_ltr/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\css_ltr\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.wadinile-transport.com/css_ltr/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\css_ltr\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.wadinile-transport.com/css_ltr/magnific-popup.css
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\css_ltr\magnific-popup.css
+Content Type: text/css
+
+Uri: https://www.wadinile-transport.com/css_ltr/maps.css
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\css_ltr\maps.css
+Content Type: text/css
+
+Uri: https://www.wadinile-transport.com/css_ltr/owl.carousel.css
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\css_ltr\owl.carousel.css
+Content Type: text/css
+
+Uri: https://www.wadinile-transport.com/css_ltr/revolution_navigation.css
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\css_ltr\revolution_navigation.css
+Content Type: text/css
+
+Uri: https://www.wadinile-transport.com/css_ltr/revolution_settings.css
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\css_ltr\revolution_settings.css
+Content Type: text/css
+
+Uri: https://www.wadinile-transport.com/css_ltr/skin-1.css?v=1.01
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\css_ltr\skin-1.css
+Content Type: text/css
+
+Uri: https://www.wadinile-transport.com/css_ltr/style.css?v=1.01
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\css_ltr\style.css
+Content Type: text/css
+
+Uri: https://www.wadinile-transport.com/css_ltr/templete.css
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\css_ltr\templete.css
+Content Type: text/css
+
+Uri: https://www.wadinile-transport.com/css_rtl/bootstrap-select.min.css
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\css_rtl\bootstrap-select.min.css
+Content Type: text/css
+
+Uri: https://www.wadinile-transport.com/css_rtl/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\css_rtl\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.wadinile-transport.com/css_rtl/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\css_rtl\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.wadinile-transport.com/css_rtl/magnific-popup.css
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\css_rtl\magnific-popup.css
+Content Type: text/css
+
+Uri: https://www.wadinile-transport.com/css_rtl/maps.css
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\css_rtl\maps.css
+Content Type: text/css
+
+Uri: https://www.wadinile-transport.com/css_rtl/owl.carousel.css
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\css_rtl\owl.carousel.css
+Content Type: text/css
+
+Uri: https://www.wadinile-transport.com/css_rtl/revolution_navigation.css
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\css_rtl\revolution_navigation.css
+Content Type: text/css
+
+Uri: https://www.wadinile-transport.com/css_rtl/revolution_settings.css
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\css_rtl\revolution_settings.css
+Content Type: text/css
+
+Uri: https://www.wadinile-transport.com/css_rtl/skin-1.css?v=1.01
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\css_rtl\skin-1.css
+Content Type: text/css
+
+Uri: https://www.wadinile-transport.com/css_rtl/style.css?v=1.01
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\css_rtl\style.css
+Content Type: text/css
+
+Uri: https://www.wadinile-transport.com/css_rtl/templete.css
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\css_rtl\templete.css
+Content Type: text/css
+
+Uri: https://www.wadinile-transport.com/en/about
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\about.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/contact
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\contact.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/index.php
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\index.php.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/category/1
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\category\1.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/1
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\1.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/10
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\10.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/11
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\11.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/12
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\12.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/13
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\13.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/14
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\14.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/15
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\15.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/17
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\17.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/18
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\18.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/19
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\19.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/2
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\2.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/20
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\20.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/21
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\21.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/22
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\22.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/23
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\23.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/24
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\24.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/25
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\25.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/26
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\26.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/27
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\27.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/28
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\28.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/29
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\29.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/3
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\3.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/30
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\30.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/31
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\31.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/32
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\32.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/33
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\33.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/34
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\34.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/4
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\4.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/5
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\5.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/6
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\6.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/7
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\7.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/8
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\8.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/pages/page/9
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\pages\page\9.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/privacy
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\privacy.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/category/1
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\category\1.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/1
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\1.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/10
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\10.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/11
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\11.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/12
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\12.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/13
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\13.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/14
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\14.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/15
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\15.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/16
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\16.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/17
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\17.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/18
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\18.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/19
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\19.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/2
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\2.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/20
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\20.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/21
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\21.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/22
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\22.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/23
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\23.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/24
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\24.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/25
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\25.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/26
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\26.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/27
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\27.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/28
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\28.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/29
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\29.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/3
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\3.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/30
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\30.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/31
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\31.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/32
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\32.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/33
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\33.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/34
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\34.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/35
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\35.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/36
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\36.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/37
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\37.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/38
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\38.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/39
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\39.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/4
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\4.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/40
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\40.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/41
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\41.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/42
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\42.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/43
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\43.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/44
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\44.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/45
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\45.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/46
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\46.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/47
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\47.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/48
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\48.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/5
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\5.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/6
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\6.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/7
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\7.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/8
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\8.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/en/products/product/9
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\en\products\product\9.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/fonts/droidnaskh/DroidArabicNaskh-Bold.eot?
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\droidnaskh\DroidArabicNaskh-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.wadinile-transport.com/fonts/droidnaskh/DroidArabicNaskh-Bold.svg
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\droidnaskh\DroidArabicNaskh-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wadinile-transport.com/fonts/droidnaskh/DroidArabicNaskh-Bold.ttf
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\droidnaskh\DroidArabicNaskh-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://www.wadinile-transport.com/fonts/droidnaskh/DroidArabicNaskh-Bold.woff?
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\droidnaskh\DroidArabicNaskh-Bold.woff
+Content Type: font/woff
+
+Uri: https://www.wadinile-transport.com/fonts/droidnaskh/DroidArabicNaskh.woff
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\droidnaskh\DroidArabicNaskh.woff
+Content Type: font/woff
+
+Uri: https://www.wadinile-transport.com/fonts/droidnaskh/DroidArabicNaskh.woff2
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\droidnaskh\DroidArabicNaskh.woff2
+Content Type: font/woff2
+
+Uri: https://www.wadinile-transport.com/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.wadinile-transport.com/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.wadinile-transport.com/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wadinile-transport.com/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.wadinile-transport.com/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://www.wadinile-transport.com/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.wadinile-transport.com/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.wadinile-transport.com/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.wadinile-transport.com/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wadinile-transport.com/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://www.wadinile-transport.com/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://www.wadinile-transport.com/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://www.wadinile-transport.com/fonts/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.wadinile-transport.com/fonts/revicons.svg?5510888
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wadinile-transport.com/fonts/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\revicons.ttf
+Content Type: font/ttf
+
+Uri: https://www.wadinile-transport.com/fonts/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\fonts\revicons.woff
+Content Type: font/woff
+
+Uri: https://www.wadinile-transport.com/galleries/
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\galleries\index.htm
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/galleries/gallery/1/من-اعمالنا.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\galleries\gallery\1\من-اعمالنا.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/galleries?page=1
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\galleries.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/images/bg1.jpg
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\images\bg1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wadinile-transport.com/images/bg1.png
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\images\bg1.png
+Content Type: image/png
+
+Uri: https://www.wadinile-transport.com/images/bg4.jpg
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\images\bg4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wadinile-transport.com/images/bnr1.jpg
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\images\bnr1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wadinile-transport.com/images/favicon.ico?v=1.01
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.wadinile-transport.com/images/favicon.png?v=1.01
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\images\favicon.png
+Content Type: image/png
+
+Uri: https://www.wadinile-transport.com/images/line.png
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\images\line.png
+Content Type: image/png
+
+Uri: https://www.wadinile-transport.com/images/loading.gif
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\images\loading.gif
+Content Type: image/gif
+
+Uri: https://www.wadinile-transport.com/images/map_marker_icon.png
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\images\map_marker_icon.png
+Content Type: image/png
+
+Uri: https://www.wadinile-transport.com/images/rrdiagonal-line.png
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\images\rrdiagonal-line.png
+Content Type: image/png
+
+Uri: https://www.wadinile-transport.com/index.php
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\index.php.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/js/bootstrap-select.min.js
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\js\bootstrap-select.min.js
+Content Type: application/javascript
+
+Uri: https://www.wadinile-transport.com/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.wadinile-transport.com/js/counterup.min.js
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\js\counterup.min.js
+Content Type: application/javascript
+
+Uri: https://www.wadinile-transport.com/js/custom.js
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\js\custom.js
+Content Type: application/javascript
+
+Uri: https://www.wadinile-transport.com/js/dz.ajax.js
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\js\dz.ajax.js
+Content Type: application/javascript
+
+Uri: https://www.wadinile-transport.com/js/dz.carousel.js
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\js\dz.carousel.js
+Content Type: application/javascript
+
+Uri: https://www.wadinile-transport.com/js/imagesloaded.js
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\js\imagesloaded.js
+Content Type: application/javascript
+
+Uri: https://www.wadinile-transport.com/js/jquery.bootstrap-touchspin.js
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\js\jquery.bootstrap-touchspin.js
+Content Type: application/javascript
+
+Uri: https://www.wadinile-transport.com/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.wadinile-transport.com/js/jquery.themepunch.revolution.min.js
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: https://www.wadinile-transport.com/js/jquery.themepunch.tools.min.js
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: https://www.wadinile-transport.com/js/lazysizes.min.js
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\js\lazysizes.min.js
+Content Type: application/javascript
+
+Uri: https://www.wadinile-transport.com/js/magnific-popup.js
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\js\magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://www.wadinile-transport.com/js/maps.js?v=1.02
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\js\maps.js
+Content Type: application/javascript
+
+Uri: https://www.wadinile-transport.com/js/masonry-3.1.4.js
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\js\masonry-3.1.4.js
+Content Type: application/javascript
+
+Uri: https://www.wadinile-transport.com/js/masonry.filter.js
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\js\masonry.filter.js
+Content Type: application/javascript
+
+Uri: https://www.wadinile-transport.com/js/owl.carousel.js
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\js\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://www.wadinile-transport.com/js/rd-google-map.js
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\js\rd-google-map.js
+Content Type: application/javascript
+
+Uri: https://www.wadinile-transport.com/js/rev.slider.js
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\js\rev.slider.js
+Content Type: application/javascript
+
+Uri: https://www.wadinile-transport.com/js/waypoints-min.js
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\js\waypoints-min.js
+Content Type: application/javascript
+
+Uri: https://www.wadinile-transport.com/pages
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\index.htm
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/category/1
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\category\1.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/category/1/اخبار-الشركة.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\category\1\اخبار-الشركة.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/category/1/company-news.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\category\1\company-news.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/category/1?page=1
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\category\1-1.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/category/1?page=2
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\category\1-2.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/1
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\1.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/1/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\1\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/10
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\10.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/10/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\10\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/11
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\11.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/11/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\11\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/12
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\12.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/12/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\12\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/13
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\13.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/13/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\13\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/14
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\14.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/14/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\14\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/15
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\15.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/15/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\15\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/17
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\17.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/17/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\17\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/18
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\18.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/18/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\18\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/19
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\19.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/19/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\19\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/2
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\2.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/2/شركه-وادى-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\2\شركه-وادى-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/20
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\20.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/20/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\20\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/21
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\21.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/21/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\21\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/22
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\22.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/22/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\22\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/23
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\23.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/23/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\23\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/24
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\24.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/24/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\24\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/25
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\25.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/25/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\25\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/26
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\26.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/26/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\26\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/27
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\27.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/27/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\27\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/28
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\28.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/28/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\28\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/29
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\29.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/29/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\29\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/3
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\3.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/3/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\3\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/30
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\30.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/30/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\30\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/31
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\31.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/31/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\31\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/32
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\32.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/32/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\32\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/33
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\33.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/33/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\33\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/34
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\34.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/34/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\34\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/4
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\4.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/4/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\4\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/5
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\5.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/5/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\5\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/6
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\6.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/6/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\6\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/7
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\7.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/7/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\7\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/8
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\8.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/8/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\8\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/9
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\9.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/pages/page/9/شركه-وادي-النيل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\pages\page\9\شركه-وادي-النيل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/privacy
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\privacy.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/privacy/
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\privacy\index.htm
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\index.htm
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/category/1
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\category\1.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/category/1/شركه-وادى-النيل-لنقل-الأثاث.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\category\1\شركه-وادى-النيل-لنقل-الأثاث.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/category/1/wadi-el-nile-furniture-moving-company.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\category\1\wadi-el-nile-furniture-moving-company.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/1
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\1.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/1/شركات-نقل-الاثاث-في-6-اكتوبر.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\1\شركات-نقل-الاثاث-في-6-اكتوبر.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/10
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\10.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/10/فنين-من-الكهربائين.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\10\فنين-من-الكهربائين.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/10/فنيين-من-الكهربائيين.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\10\فنيين-من-الكهربائيين.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/11
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\11.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/11/جميع-انواع-الفك-وتركيب.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\11\جميع-انواع-الفك-وتركيب.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/12
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\12.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/12/شركات-نقل-الاثاث-في-التجمع-الخامس.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\12\شركات-نقل-الاثاث-في-التجمع-الخامس.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/13
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\13.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/13/تقوم-شركه-وادي-النيل-بنقل-الاثاث-على-أيدي-عمالة.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\13\تقوم-شركه-وادي-النيل-بنقل-الاثاث-على-أيدي-عمالة.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/14
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\14.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/14/تغليف-الاثاث.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\14\تغليف-الاثاث.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/15
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\15.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/15/شركات-نقل-الاثاث-بمدينه-نصر.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\15\شركات-نقل-الاثاث-بمدينه-نصر.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/16
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\16.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/16/ونش-رفع-اثاث-في-شبرا.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\16\ونش-رفع-اثاث-في-شبرا.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/17
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\17.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/17/شركات-نقل-الاثاث-في-القاهره.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\17\شركات-نقل-الاثاث-في-القاهره.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/18
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\18.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/18/شركه-وادي-النيل-لنقل-الاثاث-تحمل-على-عاتقها-المسؤولية.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\18\شركه-وادي-النيل-لنقل-الاثاث-تحمل-على-عاتقها-المسؤولية.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/19
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\19.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/19/شركه-وادي-النيل-تضمن-لك-توصيل-الاثاث-بأفضل-عنايه.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\19\شركه-وادي-النيل-تضمن-لك-توصيل-الاثاث-بأفضل-عنايه.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/2
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\2.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/2/ونش-رفع-اثاث-بالهرم.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\2\ونش-رفع-اثاث-بالهرم.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/20
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\20.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/20/شركه-وادي-النيل-تستخدم-احدث-انواع-التغليف.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\20\شركه-وادي-النيل-تستخدم-احدث-انواع-التغليف.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/21
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\21.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/21/شركه-وادي-النيل-لنقل-الاثاث-تستخدم-احدث-الطرق-الحديثه.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\21\شركه-وادي-النيل-لنقل-الاثاث-تستخدم-احدث-الطرق-الحديثه.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/22
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\22.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/22/شركات-ونش-الاثاث-شركات-ونش-العفش.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\22\شركات-ونش-الاثاث-شركات-ونش-العفش.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/23
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\23.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/23/شركات-نقل-الاثاث-في-اكتوبر.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\23\شركات-نقل-الاثاث-في-اكتوبر.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/24
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\24.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/24/شركات-نقل-اثاث-بالرحاب.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\24\شركات-نقل-اثاث-بالرحاب.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/25
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\25.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/25/فروع-شركه-وادي-النيل-في-جميع-محافظات-مصر.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\25\فروع-شركه-وادي-النيل-في-جميع-محافظات-مصر.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/26
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\26.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/26/شركات-نقل-الاثاث-في-مدينتي.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\26\شركات-نقل-الاثاث-في-مدينتي.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/27
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\27.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/27/شركات-نقل-الاثاث-في-هليوبوليس.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\27\شركات-نقل-الاثاث-في-هليوبوليس.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/28
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\28.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/28/نقل-الاثاث.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\28\نقل-الاثاث.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/29
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\29.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/29/شركات-نقل-اثاث-بمدينه-نصر.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\29\شركات-نقل-اثاث-بمدينه-نصر.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/3
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\3.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/3/سيارات-نقل-عفش-مغلقة.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\3\سيارات-نقل-عفش-مغلقة.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/30
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\30.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/30/تقدم-لعملائها-احدث-العروض-والتوفير.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\30\تقدم-لعملائها-احدث-العروض-والتوفير.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/31
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\31.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/31/فريق-عمل-شركه-وادي-النيل-ذو-خبره-طويله.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\31\فريق-عمل-شركه-وادي-النيل-ذو-خبره-طويله.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/32
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\32.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/32/شركات-نقل-اثاث-في-الشروق.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\32\شركات-نقل-اثاث-في-الشروق.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/33
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\33.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/33/شركه-وادي-النيل-لنقل-الاثاث.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\33\شركه-وادي-النيل-لنقل-الاثاث.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/34
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\34.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/34/سيارات-مخصصه-لنقل-العفش-اوناش-هيدروليك.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\34\سيارات-مخصصه-لنقل-العفش-اوناش-هيدروليك.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/35
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\35.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/35/انقل-عفشك-بسهوله.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\35\انقل-عفشك-بسهوله.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/36
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\36.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/36/تغليف-الاثاث-المنزلي-بخامات-المستورده-من-الكرتون.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\36\تغليف-الاثاث-المنزلي-بخامات-المستورده-من-الكرتون.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/37
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\37.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/37/شركه-وادي-النيل-لنقل-الاثاث.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\37\شركه-وادي-النيل-لنقل-الاثاث.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/38
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\38.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/38/عاوز-تنقل-عفشك-بامن-تام-وباقل-الاسعار.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\38\عاوز-تنقل-عفشك-بامن-تام-وباقل-الاسعار.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/39
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\39.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/39/شركه-وادي-النيل-لنقل-الاثاث-ترحب-بالساده-الزائرين.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\39\شركه-وادي-النيل-لنقل-الاثاث-ترحب-بالساده-الزائرين.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/4
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\4.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/4/شركات-التبريد-والتكييف.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\4\شركات-التبريد-والتكييف.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/40
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\40.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/40/نحن-نستخدم-احدث-معدات-للرفع.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\40\نحن-نستخدم-احدث-معدات-للرفع.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/41
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\41.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/41/شركه-وادي-النيل-لنقل-الاثاث.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\41\شركه-وادي-النيل-لنقل-الاثاث.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/42
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\42.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/42/نقل-الاثاث-في-جميع-محافظات.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\42\نقل-الاثاث-في-جميع-محافظات.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/43
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\43.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/43/وادي-النيل-لنقل-الاثاث.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\43\وادي-النيل-لنقل-الاثاث.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/44
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\44.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/44/رفع-الاثاث-بالونش-الهيدروليك.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\44\رفع-الاثاث-بالونش-الهيدروليك.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/45
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\45.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/45/ونش-هيدروليك-تنزيل-الاثاث.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\45\ونش-هيدروليك-تنزيل-الاثاث.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/46
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\46.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/46/لدينا-فريق-عمل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\46\لدينا-فريق-عمل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/47
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\47.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/47/فنيون-متخصصون.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\47\فنيون-متخصصون.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/48
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\48.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/48/تعبئه-وتغليف.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\48\تعبئه-وتغليف.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/5
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\5.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/5/تغليف-الاثاث-المحتويات-بالكامل.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\5\تغليف-الاثاث-المحتويات-بالكامل.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/5/تغليف-الاثاث-المحتويات-بالكام.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\5\تغليف-الاثاث-المحتويات-بالكام.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/6
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\6.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/6/احدث-طرق-لنقل-الاثاث.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\6\احدث-طرق-لنقل-الاثاث.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/6/نقل-الشركات.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\6\نقل-الشركات.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/7
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\7.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/7/شركه-وادي-النيل-لنقل-الاثاث.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\7\شركه-وادي-النيل-لنقل-الاثاث.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/8
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\8.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/8/شركه-وادي-النيل-ادوات-حديثه.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\8\شركه-وادي-النيل-ادوات-حديثه.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/9
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\9.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/products/product/9/تمتلك-اسطول-من-جميع-الاوناش.html
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\products\product\9\تمتلك-اسطول-من-جميع-الاوناش.html
+Content Type: text/html
+
+Uri: https://www.wadinile-transport.com/uploads/galleries/t/l-g-1-p-15.jpg
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\uploads\galleries\t\l-g-1-p-15.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wadinile-transport.com/uploads/galleries/t/l-g-1-p-16.jpg
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\uploads\galleries\t\l-g-1-p-16.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wadinile-transport.com/uploads/galleries/t/l-g-1-p-17.png
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\uploads\galleries\t\l-g-1-p-17.png
+Content Type: image/png
+
+Uri: https://www.wadinile-transport.com/uploads/galleries/t/l-g-1-p-18.jpg
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\uploads\galleries\t\l-g-1-p-18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wadinile-transport.com/uploads/galleries/t/l-g-1-p-19.jpg
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\uploads\galleries\t\l-g-1-p-19.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wadinile-transport.com/uploads/galleries/t/l-g-1-p-20.jpg
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\uploads\galleries\t\l-g-1-p-20.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wadinile-transport.com/uploads/galleries/t/l-g-1-p-21.png
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\uploads\galleries\t\l-g-1-p-21.png
+Content Type: image/png
+
+Uri: https://www.wadinile-transport.com/uploads/galleries/t/l-g-1-p-22.jpg
+File Name: C:\Downloaded Web Sites\www.wadinile-transport.com\uploads\galleries\t\l-g-1-p-22.jpg
+Content Type: image/jpeg
+

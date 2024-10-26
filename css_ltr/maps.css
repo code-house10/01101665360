@@ -1,0 +1,10 @@
+.page_map {height: 485px;text-align: center;}
+.page_map .marker {display: none;}
+.map_marker_description {max-width: 270px;}
+.map_marker_description h3 {line-height: 1;margin-bottom: 10px;}
+.map_marker_description img {max-width: 90% !important;}
+.gm-style .gm-style-iw {line-height: 1.6em;overflow: visible !important;text-align: center;}
+.gm-style .gm-style-iw > *:first-child {position: relative;}
+.gm-style .gm-style-iw:before {background: #fff;border-top: 2px solid #a67c00;bottom: -25px;box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);content: "";display: block;left: -16px;position: absolute;right: -16px;top: -25px;}
+.gm-style .gm-style-iw .icon-inline {display: inline-block;margin: 0.3em 0;}
+.gm-style .gm-style-iw .icon-inline .icon-styled {margin-right: 5px;}
